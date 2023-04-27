@@ -25,4 +25,4 @@ spec:
         # default cluster as destination, you can define multiple clusters in ArgoCD UI
         server: https://7a14d51a-0620-42ff-abf0-1a208b2eedaa.k8s.ondigitalocean.com
         # will deploy to different namespaces as different destinations 
-        namespace: '{{namespace}}'
+        namespace: '{{namespace}}' 
